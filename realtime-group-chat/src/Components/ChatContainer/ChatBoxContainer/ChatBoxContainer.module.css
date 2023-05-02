@@ -1,0 +1,18 @@
+.ChatBoxContainer {
+    background-color: #eee;
+}
+
+.MessageInput {
+    width: 95%;
+    font-weight: 400;
+    border: none;
+}
+
+.MessageInput:focus {
+    outline: none;
+}
+
+.ChatBoxWrapper{
+    height: 500px;
+    overflow-y: scroll;
+}
