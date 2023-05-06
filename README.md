@@ -1,10 +1,10 @@
 # udemy-reactjs-nextjs-course
 
-#Udemy:
+# Udemy:
 
 Mastering NextJS with OpenAI: Build Modern Web Applications - 2023
 
-#Description:
+# Description:
 
 Discover NextJS 13, ChatGPT, OpenAI, Socket io, Vercel, learn to build and deploy your portfolio website to production.
 
