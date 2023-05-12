@@ -1,0 +1,14 @@
+.Container {
+    width: 100%;
+    border: 1px solid #dfdfdf;
+    margin: 10px;
+}
+
+.Container table {
+    width: 100%;
+}
+
+.Container table thead {
+    text-align: left;
+}
+
